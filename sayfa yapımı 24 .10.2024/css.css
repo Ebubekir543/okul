@@ -1,0 +1,40 @@
+div{display: flex;}
+.d1{
+    justify-content: space-between;
+    align-items: center;
+    color: whitesmoke;
+    background-color:  lightsalmon;
+    height: 4vw;
+    padding-top: 0.5px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+  }
+
+  .d1 a{color: white; text-decoration: none;}
+  .d1 .link{
+  
+  display: flex;
+  gap: 20px;
+  margin-right: 10px;
+  
+
+}
+.d2{
+  color: black;
+  background-color: cadetblue ;
+  height: 26vw;
+  padding-top: 0.5px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+  
+}
+
+.d3{
+  color: black;
+  background-color: lightsalmon  ;
+  height: 13vw;
+  padding-top: 0.5px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+
+}
